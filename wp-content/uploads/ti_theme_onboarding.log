@@ -1,0 +1,14 @@
+[19/Aug/2019:17:59:20] (ℹ️): WordPress Instance Info:
+[19/Aug/2019:17:59:20] (ℹ️): Home URL : http://localhost/wordpress
+[19/Aug/2019:17:59:20] (ℹ️): Site URL : http://localhost/wordpress
+[19/Aug/2019:17:59:20] (ℹ️): WordPress Version : 5.2.2
+[19/Aug/2019:17:59:20] (ℹ️): Onboarding Version : 1.6.3
+[19/Aug/2019:17:59:20] (ℹ️): Multisite : No
+[19/Aug/2019:17:59:20] (ℹ️): Server Info : Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.2
+[19/Aug/2019:17:59:20] (ℹ️): PHP Version : 7.3.2
+[19/Aug/2019:17:59:20] (ℹ️): HTTPS : No
+[19/Aug/2019:17:59:20] (ℹ️): PHP Max Execution Time : 30
+[19/Aug/2019:17:59:20] (ℹ️): PHP Max Input Vars : 1000
+[19/Aug/2019:17:59:20] (ℹ️): Max Upload Size : 8388608
+[19/Aug/2019:17:59:20] (ℹ️): Plugins:
+[19/Aug/2019:17:59:20] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.7 (Themeisle)
